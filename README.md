@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Leakedebug
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python,Java and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Via Discord Leaked#1006
-
-<!---
-Leakedebug/Leakedebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![leaked debug](https://user-images.githubusercontent.com/100136176/158119156-3b8b0b70-09a7-4214-a9fa-db5fdd14b571.png)
